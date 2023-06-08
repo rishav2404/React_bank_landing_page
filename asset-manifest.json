@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/React_bank_landing_page/static/css/main.fc0706bd.css",
+    "main.js": "/React_bank_landing_page/static/js/main.af94bbf8.js",
+    "static/js/787.45774410.chunk.js": "/React_bank_landing_page/static/js/787.45774410.chunk.js",
+    "static/media/phone.svg": "/React_bank_landing_page/static/media/phone.3e9a43350241656ea382db6f66ba7206.svg",
+    "static/media/conversation.svg": "/React_bank_landing_page/static/media/conversation.a71ef2b6b4ac96e0542d0c36e4ef0c3d.svg",
+    "static/media/avatar3.svg": "/React_bank_landing_page/static/media/avatar3.a9adde392c672b7cd0d5e2f89fcc5041.svg",
+    "static/media/avatar4.svg": "/React_bank_landing_page/static/media/avatar4.9bff82af147b6c10c301998267845a9d.svg",
+    "static/media/avatar5.svg": "/React_bank_landing_page/static/media/avatar5.5cf8bc384be816d55c56ad97b18cba24.svg",
+    "static/media/avatar1.svg": "/React_bank_landing_page/static/media/avatar1.32af02f10e1e00a285b1c4c4c094302f.svg",
+    "static/media/avatar2.svg": "/React_bank_landing_page/static/media/avatar2.46c690ae655bca7e47e0db17925a63d6.svg",
+    "static/media/creditcard.svg": "/React_bank_landing_page/static/media/creditcard.d346f0d491833b2af9987518a2bb1b3e.svg",
+    "static/media/ring_orange.svg": "/React_bank_landing_page/static/media/ring_orange.be9e2386b7605ded184e5b0c436acbf4.svg",
+    "static/media/chart.svg": "/React_bank_landing_page/static/media/chart.6b5b7fb244aa879d7faa5713ab9eaa23.svg",
+    "static/media/lines.svg": "/React_bank_landing_page/static/media/lines.49f722a6c2c224d6781c5a1c37d8978c.svg",
+    "static/media/circleBg.svg": "/React_bank_landing_page/static/media/circleBg.5b61a2dc7e38f87b9dbed870a72546b5.svg",
+    "static/media/bg.svg": "/React_bank_landing_page/static/media/bg.b58e4072ff29148fee325cda92355bb3.svg",
+    "static/media/logo.svg": "/React_bank_landing_page/static/media/logo.f2f8ef1ef56a968257c8ab35012097a2.svg",
+    "static/media/message_blue.svg": "/React_bank_landing_page/static/media/message_blue.c374abb90e3d4fb2d152413dbee9d4f0.svg",
+    "static/media/message_pink.svg": "/React_bank_landing_page/static/media/message_pink.f957327ec147bea3d52010bf5b2e3786.svg",
+    "index.html": "/React_bank_landing_page/index.html",
+    "static/media/arrow.svg": "/React_bank_landing_page/static/media/arrow.6e8a628becfebae21c66355467879e0d.svg",
+    "static/media/check-disabled.svg": "/React_bank_landing_page/static/media/check-disabled.d364688f1f9bef579022947c8144a48e.svg",
+    "static/media/check.svg": "/React_bank_landing_page/static/media/check.5bff535ee953de59b51eb4ef6cd6706d.svg",
+    "static/media/active.svg": "/React_bank_landing_page/static/media/active.c3ca629eb506e142c41e1e34a2fb0f6a.svg",
+    "static/media/inactive.svg": "/React_bank_landing_page/static/media/inactive.a27ce5e4cd170206a90228726f859bde.svg",
+    "main.fc0706bd.css.map": "/React_bank_landing_page/static/css/main.fc0706bd.css.map",
+    "main.af94bbf8.js.map": "/React_bank_landing_page/static/js/main.af94bbf8.js.map",
+    "787.45774410.chunk.js.map": "/React_bank_landing_page/static/js/787.45774410.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc0706bd.css",
+    "static/js/main.af94bbf8.js"
+  ]
+}
